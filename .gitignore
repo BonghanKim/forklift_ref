@@ -1,0 +1,8 @@
+.vscode/
+logs/
+build/
+devel/
+
+*.log
+db.sqlite3
+.catkin_workspace
